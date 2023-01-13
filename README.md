@@ -28,12 +28,12 @@
 - ring light: Elgato Ring Light
 
 ## rigging
-- microphone arm: ???
-- monitor arm: Huanuo ???
+- microphone arm: Innogear Microphone Arm Stand
+- monitor arm: Huanuo Single Monitor Mount
 
 ## expansion
-- usb hub: ???
-- usb dock: ???
+- usb hub: Sabrent 4-port USB 3.0 Hub
+- usb dock: Dell Dock WD15
 
 ## input
 - keyboard: Logitech MX Keys
@@ -41,5 +41,5 @@
 - macropad: Elgato Stream Deck
 
 ## miscellaneous
-- headphone stand: ???
+- headphone stand: Avantree Aluminum Headphone Stand
 - desk: Fully Jarvis Standing Desk
