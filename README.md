@@ -2,8 +2,8 @@
 <>
 
 # junkmuthur
-- model: <redacted>
-- cpu: <redacted>
+- model: redacted
+- cpu: redacted
 - gpu: Nvidia Quadro ***T1000***
 - memory: 32 GB DDR4
 - disk: 2 TB NVMe SSD
