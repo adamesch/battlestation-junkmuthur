@@ -36,6 +36,7 @@
 - usb dock: Dell Dock WD15
 
 ## input
+- keyboard: [NovelKeys NK65](https://github.com/adamesch/keeb-build-dreameater)
 - keyboard: Logitech MX Keys
 - mouse: Logitech MX Master 3
 - macropad: Elgato Stream Deck
