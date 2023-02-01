@@ -44,3 +44,5 @@
 ## miscellaneous
 - headphone stand: Avantree Aluminum Headphone Stand
 - desk: Fully Jarvis Standing Desk
+- scanner: Fujitsu SnapScan ix1600
+- label printer: iDPRT SP420
